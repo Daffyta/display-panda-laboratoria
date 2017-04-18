@@ -39,3 +39,19 @@ img{
   margin: 20px;
   border: 3px solid white;
 }
+
+/*Botones*/
+#botones{
+  margin-top: 30px;
+  margin-left: 80px;
+}
+
+.btn{
+  display: inline-block;
+  width: 150px;
+  padding: 10px 100px;
+  text-align: center;
+  color: white;
+  /* margin-left: 28px; */
+  background-color: #ca3c25;
+}
