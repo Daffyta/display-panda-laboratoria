@@ -1,0 +1,24 @@
+body{
+  background-color:#1d1a05;
+}
+
+/*Estilos menu*/
+header{
+  background-color: #ca3c25;
+}
+
+li{
+  display: inline-block;
+  margin: 0 30px;
+  padding: 20px;
+  list-style: none;
+}
+
+a{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: black;
+}
