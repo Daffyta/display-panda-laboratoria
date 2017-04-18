@@ -26,7 +26,7 @@ a:hover{
 /*Imagenes*/
 #fotos{
   position: relative;
-  left: 10px;
+  left: 35px;
   margin-left: 80px;
 }
 .img{
@@ -40,15 +40,23 @@ img{
   border: 3px solid white;
 }
 
+span{
+  position:absolute;
+  padding:30px;
+  color: #fff;
+  font-size: 25px;
+}
+
+
 /*Botones*/
 #botones{
   margin-top: 30px;
-  margin-left: 80px;
+  margin-left: 100px;
 }
 
 .btn{
   display: inline-block;
-  width: 150px;
+  width: 338px;
   padding: 10px 100px;
   text-align: center;
   color: white;
