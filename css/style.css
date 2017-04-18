@@ -55,3 +55,16 @@ img{
   /* margin-left: 28px; */
   background-color: #ca3c25;
 }
+
+/*Columnas texto*/
+#textColumn{
+  margin: 80px;
+}
+
+.text{
+  width: 500px;
+  display: inline-block;
+  color: #fff;
+  text-align: justify;
+  margin-left: 20px;
+}
